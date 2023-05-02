@@ -1,182 +1,44 @@
 [
   {
     "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "picture": "https://www.example.com/gordon-ramsay.jpg",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 100,
+    "likes": 50000
   },
   {
-    "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "name": "Ina Garten",
+    "picture": "https://www.example.com/ina-garten.jpg",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 50,
+    "likes": 20000
   },
   {
-    "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "name": "Bobby Flay",
+    "picture": "https://www.example.com/bobby-flay.jpg",
+    "yearsOfExperience": 35,
+    "numberOfRecipes": 75,
+    "likes": 30000
   },
   {
-    "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "name": "Giada De Laurentiis",
+    "picture": "https://www.example.com/giada-de-laurentiis.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 60,
+    "likes": 25000
   },
   {
-    "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "name": "Anthony Bourdain",
+    "picture": "https://www.example.com/anthony-bourdain.jpg",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 20,
+    "likes": 15000
   },
   {
-    "name": "Gordon Ramsay",
-    "age": 54,
-    "nationality": "British",
-    "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
-    "image": "https://www.example.com/images/gordon-ramsay.jpg",
-    "social_media": {
-      "twitter": "https://twitter.com/GordonRamsay",
-      "instagram": "https://www.instagram.com/gordongram/",
-      "facebook": "https://www.facebook.com/gordonramsay/"
-    },
-    "recipes": [
-      {
-        "title": "Beef Wellington",
-        "image": "https://www.example.com/images/beef-wellington.jpg",
-        "description": "A classic British dish consisting of filet steak coated in a mixture of mushrooms, onions, and herbs, wrapped in puff pastry and baked."
-      },
-      {
-        "title": "Scrambled Eggs",
-        "image": "https://www.example.com/images/scrambled-eggs.jpg",
-        "description": "A simple but delicious breakfast dish made with fluffy scrambled eggs and garnished with chives."
-      },
-      {
-        "title": "Beef Burger",
-        "image": "https://www.example.com/images/beef-burger.jpg",
-        "description": "A classic American dish consisting of a juicy beef patty, lettuce, tomato, onion, and cheese, served on a bun."
-        
-      }
-    ]
+    "name": "Jamie Oliver",
+    "picture": "https://www.example.com/jamie-oliver.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 90,
+    "likes": 40000
   }
 ]
