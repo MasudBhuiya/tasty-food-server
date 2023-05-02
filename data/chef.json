@@ -1,7 +1,11 @@
 [
     {
         "id": "1",
-      "name": "Gordon Ramsay",
+    "name": " Rubi Blan",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 100,
+    "likes": 50000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmP4OMP9qns_LlkTC6HlGSbIgSOo6tTFL0g&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -13,7 +17,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": "Baked Spaghetti",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Baked-Spaghetti_EXPS_CPL19_1081_C11_06_4b-3.jpg?resize=700,700",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -29,7 +34,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Meat Loaf",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps6504_TH153340A10_02_4b-3.jpg?resize=696,696",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -41,7 +47,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Stuffed Pepper Soup",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Stuffed-Pepper-Soup_EXPS_THSO17_2872_D04_14_5b-2.jpg?resize=700,700",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
@@ -57,8 +64,12 @@
     ]
     },
     {
-        "id": "1",
-      "name": "Gordon Ramsay",
+        "id": "2",
+        "name": "Ina Garten",
+        "yearsOfExperience": 25,
+    "numberOfRecipes": 50,
+    "likes": 20000,
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRRCpoPGMJuOAVjafajWlbCY4nJfg_461c9WsYuhP0mOT8ew-jOe6iVXxxWcN4gnL6iU&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -70,7 +81,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": "Fluffy Key Lime Pie",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Fluffy-Key-Lime-Pie_EXPS_DSBZ17_36450_D01_13_6b-7.jpg?resize=696,696",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -86,7 +98,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Tortellini Soup",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Rustic-Italian-Tortellini-Soup_EXPS_DIYD19_41101_E04_30_6b-14.jpg?resize=700,700",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -98,7 +111,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Zucchini Cupcakes",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps7178_TH163622C04_13_5b-4.jpg?resize=696,696",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
@@ -114,8 +128,12 @@
     ]
     },
     {
-        "id": "1",
-      "name": "Gordon Ramsay",
+        "id": "3",
+    "name": "Bobby Flay",
+    "yearsOfExperience": 35,
+    "numberOfRecipes": 75,
+    "likes": 30000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSan8zaTPMQ5tBOTu1x2zHtyhUm9g2qiqAE-qpb4SJffiWWG2G5CWghpx4LcVSmUD2aCLA&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -127,7 +145,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": "Homemade Bread",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Basic-Homemade-Bread_EXPS_TOHcom20_32480_C01_26_2b.jpg?resize=768,768",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -143,7 +162,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Cauliflower Soup",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2017/09/Cauliflower-Soup_exps19731_MRR133247B07_31_3bC_RMS.jpg?resize=700,700",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -155,7 +175,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Traditional Lasagna",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Traditional-Lasagna_EXPS_THND16_12003_C07_26_6b-3.jpg?resize=700,700",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
@@ -171,8 +192,12 @@
     ]
     },
     {
-        "id": "1",
-      "name": "Gordon Ramsay",
+        "id": "4",
+    "name": "Giada De Laurentiis",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 60,
+    "likes": 25000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpS6MX_4Fk8rcr3kUmOmVTSssLKS0F0AbfI-9zjolSPOtEomWMWKi3--RTV9eoqNMfqk&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -184,7 +209,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": "Zucchini Pizza Casserole",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Zucchini-Pizza-Casserole_EXPS_THN16_2912_D06_21_5b-3.jpg?resize=696,696",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -200,7 +226,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Enchilada Casser-Ole!",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Enchilada-Casser-Ole-_EXPS_WRSM17_42083_C03_22_2b-5.jpg?resize=696,696",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -212,7 +239,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Apple Pie",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Apple-Pie_EXPS_MRRA22_6086_E11_03_1b_v3-1.jpg?resize=700,700",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
@@ -228,8 +256,12 @@
     ]
     },
     {
-        "id": "1",
-      "name": "Gordon Ramsay",
+        "id": "5",
+    "name": "Anthony Bourdain",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 20,
+    "likes": 15000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrvRBDHHLTDEEVehyqmyaZHdIHuoMarLmyQ&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -241,7 +273,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": "Chicken Fajitas",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Apple-Pie_EXPS_MRRA22_6086_E11_03_1b_v3-1.jpg?resize=700,700",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -257,7 +290,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Chicken Potpie",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps21444_TH132767B05_02_1b_WEB-9.jpg?resize=696,696",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -269,7 +303,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Pumpkin Spice Cupcakes",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Pumpkin-Spice-Cupcakes-with-Cream-Cheese-Frosting_EXPS_MRMZ16_42386_B09_16_6b-24.jpg?resize=700,700",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
@@ -285,8 +320,12 @@
     ]
     },
     {
-        "id": "1",
-      "name": "Gordon Ramsay",
+        "id": "6",
+    "name": "Jamie Oliver",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 90,
+    "likes": 40000,
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1iHq1XpytDUMYYTcraZh1pHBmRx6oTMI3g&usqp=CAU",
       "age": 54,
       "nationality": "British",
       "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
@@ -298,7 +337,8 @@
       },
       "recipes": [
         {
-          "title": "Beef Wellington",
+          "title": " Casserole",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Amish-Breakfast-Casserole_EXPS_H13X9BZ20_17826_06_24_E_2b-5.jpg?resize=696,696",
           "ingredients": [
             "2 filet steaks",
             "2 cups mushrooms",
@@ -314,7 +354,8 @@
           "favorite": false
         },
         {
-          "title": "Scrambled Eggs",
+          "title": "Cheeseburger Soup",
+          "image":"https://www.tasteofhome.com/wp-content/uploads/2018/01/Cheeseburger-Soup_EXPS_SBZ23_2832_DR_10_06_1b_v2.jpg?resize=700,700",
           "ingredients": [
             "4 eggs",
             "2 tablespoons butter",
@@ -326,7 +367,8 @@
           "favorite": false
         },
         {
-          "title": "Beef Burger",
+          "title": "Banana Bread",
+          "image": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Best-Ever-Banana-Bread_EXPS_TOHDJ20_3309_E07_31_7b-41.jpg?resize=700,700",
           "ingredients": [
             "1 pound ground beef",
             "1 teaspoon salt",
