@@ -1,0 +1,345 @@
+[
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    },
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    },
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    },
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    },
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    },
+    {
+        "id": "1",
+      "name": "Gordon Ramsay",
+      "age": 54,
+      "nationality": "British",
+      "bio": "Gordon Ramsay is a renowned British chef, restaurateur, and television personality. He has been awarded 16 Michelin stars and is best known for his fiery personality on shows like Hell's Kitchen and Kitchen Nightmares. Ramsay owns several high-end restaurants around the world and has published multiple cookbooks.",
+      "image": "https://www.example.com/images/gordon-ramsay.jpg",
+      "social_media": {
+        "twitter": "https://twitter.com/GordonRamsay",
+        "instagram": "https://www.instagram.com/gordongram/",
+        "facebook": "https://www.facebook.com/gordonramsay/"
+      },
+      "recipes": [
+        {
+          "title": "Beef Wellington",
+          "ingredients": [
+            "2 filet steaks",
+            "2 cups mushrooms",
+            "1 onion",
+            "1 tablespoon thyme",
+            "1 tablespoon dijon mustard",
+            "1 sheet puff pastry",
+            "1 egg",
+            "Salt and pepper"
+          ],
+          "method": "1. Preheat oven to 400 degrees F. Season the filet steaks with salt and pepper. In a skillet over medium-high heat, sear the steaks until browned on all sides. In the same skillet, sauté the mushrooms, onions, and thyme until soft and golden. 2. Spread the dijon mustard on the steaks and top with the mushroom mixture. Wrap the steaks in the puff pastry, brushing the edges with egg wash to seal. 3. Bake for 20-25 minutes, or until the pastry is golden brown and the steaks are cooked to desired doneness.",
+          "rating": 4.5,
+          "favorite": false
+        },
+        {
+          "title": "Scrambled Eggs",
+          "ingredients": [
+            "4 eggs",
+            "2 tablespoons butter",
+            "Salt and pepper",
+            "2 tablespoons chopped chives"
+          ],
+          "method": "1. In a bowl, whisk together the eggs, salt, and pepper. In a non-stick pan over medium-low heat, melt the butter. 2. Add the eggs to the pan and stir constantly with a spatula, scraping the bottom of the pan to prevent sticking. Once the eggs are cooked to desired consistency, remove from heat and sprinkle with chopped chives.",
+          "rating": 3.8,
+          "favorite": false
+        },
+        {
+          "title": "Beef Burger",
+          "ingredients": [
+            "1 pound ground beef",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper",
+            "4 slices cheddar cheese",
+            "4 hamburger buns",
+            "Lettuce, tomato, onion, and any other desired toppings"
+          ],
+          "method": "1. Preheat grill to high heat. In a bowl, mix together the ground beef, salt, and pepper, being careful not to overwork the meat. 2. Form the meat into patties and make a small indentation in the center with your thumb. 3. Grill the patties for 3-4 minutes per side, or until desired doneness is reached. 4. Add a slice of cheese to each patty and let it melt. 5. Assemble the burgers on buns with lettuce, tomato, onion." ,
+          "rating": 3.8,
+          "favorite": false
+        }
+    ]
+    }
+]
+  
